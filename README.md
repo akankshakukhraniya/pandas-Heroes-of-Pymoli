@@ -1,5 +1,4 @@
-# pandas-challenge
-
+# Heroes of Pymoli
 ## Background
 
 The data dive continues!
