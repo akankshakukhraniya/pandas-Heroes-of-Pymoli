@@ -6,18 +6,6 @@ The data dive continues!
 
 Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this work, you'll need to complete Data Challenge.
 
-### Before You Begin
-
-1. Create a new repository for this project called `pandas-challenge`. 
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** 
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
 ## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
